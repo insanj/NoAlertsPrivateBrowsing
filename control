@@ -1,0 +1,11 @@
+Package: com.insanj.napb
+Name: No Alerts Private Browsing
+Pre-Depends: firmware (>= 7.0)
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Yes, just keep all tabs!
+ Get rid of that pesky pop-up when enabling Private Browsing in Safari.
+Maintainer: Julian Weiss <me@insanj.com>
+Author: Julian (insanj) Weiss
+Section: Tweaks
