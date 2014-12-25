@@ -1,11 +1,10 @@
-No Alerts Private Browsing
-=======================
+# No Alerts Private Browsing
 
-Get to privacy quicker. Disable that annoying "Close All"/"Keep All" tabs pop-up. Just keep 'em!
+Get to privacy quicker. Disable that annoying "Close All"/"Keep All" tabs pop-up. Just keep 'em! **Retired** (implemented by Apple) **as of iOS 8**.
 
----------------------------------------
+## License
 	Simplified BSD License
-	Copyright (c) 2013, Julian Weiss
+	Copyright (c) 2013-2014, Julian Weiss
 	All rights reserved.
 
 	Redistribution and use in source and binary forms, with or without
